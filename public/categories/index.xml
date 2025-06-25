@@ -2,24 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Studionaisy</title>
-    <link>http://localhost:51285/categories/</link>
+    <link>https://yonaisy-arts.nl/categories/</link>
     <description>Recent content in Categories on Studionaisy</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 25 Jun 2025 10:51:47 +0530</lastBuildDate>
-    <atom:link href="http://localhost:51285/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yonaisy-arts.nl/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>One</title>
-      <link>http://localhost:51285/categories/one/</link>
+      <link>https://yonaisy-arts.nl/categories/one/</link>
       <pubDate>Wed, 25 Jun 2025 10:51:47 +0530</pubDate>
-      <guid>http://localhost:51285/categories/one/</guid>
+      <guid>https://yonaisy-arts.nl/categories/one/</guid>
       <description></description>
     </item>
     <item>
       <title>Two</title>
-      <link>http://localhost:51285/categories/two/</link>
+      <link>https://yonaisy-arts.nl/categories/two/</link>
       <pubDate>Wed, 25 Jun 2025 10:51:47 +0530</pubDate>
-      <guid>http://localhost:51285/categories/two/</guid>
+      <guid>https://yonaisy-arts.nl/categories/two/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Life Hacks</title>
+      <link>https://yonaisy-arts.nl/categories/life-hacks/</link>
+      <pubDate>Tue, 24 Jun 2025 10:51:47 +0530</pubDate>
+      <guid>https://yonaisy-arts.nl/categories/life-hacks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Oefeningen</title>
+      <link>https://yonaisy-arts.nl/categories/oefeningen/</link>
+      <pubDate>Tue, 24 Jun 2025 10:51:47 +0530</pubDate>
+      <guid>https://yonaisy-arts.nl/categories/oefeningen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pesticide</title>
+      <link>https://yonaisy-arts.nl/categories/pesticide/</link>
+      <pubDate>Tue, 24 Jun 2025 10:51:47 +0530</pubDate>
+      <guid>https://yonaisy-arts.nl/categories/pesticide/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Yoga</title>
+      <link>https://yonaisy-arts.nl/categories/yoga/</link>
+      <pubDate>Tue, 24 Jun 2025 10:51:47 +0530</pubDate>
+      <guid>https://yonaisy-arts.nl/categories/yoga/</guid>
       <description></description>
     </item>
   </channel>

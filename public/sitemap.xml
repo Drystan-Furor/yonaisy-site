@@ -2,33 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:51285/categories/</loc>
+    <loc>https://yonaisy-arts.nl/categories/</loc>
     <lastmod>2025-06-25T10:51:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:51285/categories/one/</loc>
+    <loc>https://yonaisy-arts.nl/categories/one/</loc>
     <lastmod>2025-06-25T10:51:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:51285/posts/</loc>
+    <loc>https://yonaisy-arts.nl/posts/</loc>
     <lastmod>2025-06-25T10:51:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:51285/</loc>
+    <loc>https://yonaisy-arts.nl/</loc>
     <lastmod>2025-06-25T10:51:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:51285/categories/two/</loc>
+    <loc>https://yonaisy-arts.nl/categories/two/</loc>
     <lastmod>2025-06-25T10:51:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:51285/posts/mijn-eerste-post/</loc>
+    <loc>https://yonaisy-arts.nl/posts/mijn-eerste-post/</loc>
     <lastmod>2025-06-25T10:51:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:51285/posts/yoga-basis-post/</loc>
+    <loc>https://yonaisy-arts.nl/categories/life-hacks/</loc>
     <lastmod>2025-06-24T10:51:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:51285/posts/mijn-default-afbeelding-post/my-first-post/</loc>
+    <loc>https://yonaisy-arts.nl/categories/oefeningen/</loc>
+    <lastmod>2025-06-24T10:51:47+05:30</lastmod>
+  </url><url>
+    <loc>https://yonaisy-arts.nl/categories/pesticide/</loc>
+    <lastmod>2025-06-24T10:51:47+05:30</lastmod>
+  </url><url>
+    <loc>https://yonaisy-arts.nl/categories/yoga/</loc>
+    <lastmod>2025-06-24T10:51:47+05:30</lastmod>
+  </url><url>
+    <loc>https://yonaisy-arts.nl/posts/pesticide-post/pesticide/</loc>
+    <lastmod>2025-06-24T10:51:47+05:30</lastmod>
+  </url><url>
+    <loc>https://yonaisy-arts.nl/posts/yoga-basis-post/</loc>
+    <lastmod>2025-06-24T10:51:47+05:30</lastmod>
+  </url><url>
+    <loc>https://yonaisy-arts.nl/posts/mijn-default-afbeelding-post/my-first-post/</loc>
     <lastmod>2020-06-13T10:51:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:51285/posts/hello-world/</loc>
+    <loc>https://yonaisy-arts.nl/posts/hello-world/</loc>
     <lastmod>2000-06-13T10:51:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:51285/tags/</loc>
+    <loc>https://yonaisy-arts.nl/tags/</loc>
   </url>
 </urlset>

@@ -1,4 +1,5 @@
-baseURL = 'https://yonaisy-arts.nl/'
+baseURL = 'https://studionaisy.onrender.com/'
+
 languageCode = 'en-us'
 title = 'Studionaisy'
 theme = 'hugo-cards'

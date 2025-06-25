@@ -1,0 +1,4 @@
+baseURL = 'https://yonaisy-arts.nl/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'ananke'

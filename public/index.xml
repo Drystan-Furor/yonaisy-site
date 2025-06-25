@@ -1,19 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Studionaisy</title>
+    <link>http://localhost:51285/</link>
+    <description>Recent content on Studionaisy</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jun 2016 10:51:47 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Jun 2025 10:51:47 +0530</lastBuildDate>
+    <atom:link href="http://localhost:51285/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Welcome to Hugox!</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Mon, 13 Jun 2016 10:51:47 +0530</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <title>Welcome to Studionaisy!</title>
+      <link>http://localhost:51285/posts/mijn-eerste-post/</link>
+      <pubDate>Wed, 25 Jun 2025 10:51:47 +0530</pubDate>
+      <guid>http://localhost:51285/posts/mijn-eerste-post/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Yoga Basis</title>
+      <link>http://localhost:51285/posts/pesticide-post/pesticide/</link>
+      <pubDate>Tue, 24 Jun 2025 10:51:47 +0530</pubDate>
+      <guid>http://localhost:51285/posts/pesticide-post/pesticide/</guid>
+      <description>&lt;h1 id=&#34;groente-en-fruit-schoon-maken&#34;&gt;Groente en fruit schoon maken&lt;/h1&gt;&#xA;&lt;p&gt;De beste en eenvoudigste manieren om je groente en fruit schoon te maken, is met behulp van huishoudmiddelen. Goed&#xA;boenen heeft al zin, maar je kunt met baking soda bijna alle pesticiden verwijderen.&lt;/p&gt;&#xA;&lt;h2 id=&#34;pesticiden-verwijderen-met-baking-soda&#34;&gt;Pesticiden verwijderen met baking soda&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Leg je producten in een bak water met baking soda (zuiveringszout) gedurende 12 tot 15 minuten.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Een oplossing van 1% is voldoende, wat betekent dat je op&#xA;1,5 liter water 1 eetlepel baking soda kunt gebruiken. Door het zuiveringszout degraderen de pesticiden beter. Spoel je&#xA;producten daarna af met water.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Yoga Basis</title>
+      <link>http://localhost:51285/posts/yoga-basis-post/</link>
+      <pubDate>Tue, 24 Jun 2025 10:51:47 +0530</pubDate>
+      <guid>http://localhost:51285/posts/yoga-basis-post/</guid>
+      <description>&lt;h1 id=&#34;yoga-oefeningen&#34;&gt;Yoga Oefeningen&lt;/h1&gt;&#xA;&lt;p&gt;Er zijn een aantal yoga oefeningen die kunnen helpen bij het versterken van het immuunsysteem. Hieronder volgen een&#xA;aantal voorbeelden:&lt;/p&gt;&#xA;&lt;h2 id=&#34;zonnegroeten-surya-namaskar&#34;&gt;Zonnegroeten (Surya Namaskar)&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Zonnegroeten (Surya Namaskar): Dit is een reeks van twaalf yogahoudingen die op elkaar aansluiten en die worden&#xA;uitgevoerd als een vloeiende beweging. Zonnegroeten helpen om de bloedsomloop te verbeteren en de spijsvertering te&#xA;bevorderen, wat beide bijdraagt aan een sterk immuunsysteem.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;diepe-ademhalingsoefeningen-pranayama&#34;&gt;Diepe ademhalingsoefeningen (Pranayama)&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Diepe ademhalingsoefeningen (Pranayama): Diepe ademhalingsoefeningen kunnen helpen om het lichaam te ontspannen en de&#xA;ademhaling te verdiepen. Dit helpt om de zuurstofvoorziening in het lichaam te verbeteren, wat weer bijdraagt aan een&#xA;sterker immuunsysteem.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>my first post!</title>
+      <link>http://localhost:51285/posts/mijn-default-afbeelding-post/my-first-post/</link>
+      <pubDate>Sat, 13 Jun 2020 10:51:47 +0530</pubDate>
+      <guid>http://localhost:51285/posts/mijn-default-afbeelding-post/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;default-img&#34;&gt;Default img&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;POST&lt;/strong&gt; text, and this is &lt;em&gt;no image in front matter&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore&#xA;magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd&#xA;gubergren, no sea takimata.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hello World!</title>
+      <link>http://localhost:51285/posts/hello-world/</link>
+      <pubDate>Tue, 13 Jun 2000 10:51:47 +0530</pubDate>
+      <guid>http://localhost:51285/posts/hello-world/</guid>
+      <description>&lt;h2 id=&#34;hello-world&#34;&gt;Hello World&lt;/h2&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipsc&#xA;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,11 +1,12 @@
 baseURL = 'https://yonaisy-arts.nl/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Studionaisy'
 theme = 'hugo-cards'
 
 [params.post.meta]
 isHidden = true
 
-[params.post.sidebar]
-type = "profile"
-title = "Profile"
+
+
+[params]
+defaultImage = "default.png"

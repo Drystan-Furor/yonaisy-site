@@ -24,29 +24,31 @@ spijsvertering. Hier zijn enkele voorbeelden:
  
 
 ## Surya Namaskar - Zonnegroet:
-{% include embed/youtube.html id='xyN9NWl86So' %}
+{{< youtube xyN9NWl86So >}}
 > Deze reeks van houdingen en bewegingen, gericht op de zon, helpt bij het verbeteren van de
 > bloedcirculatie en het verhogen van de stofwisseling.
  
 
 ## Navasana - Boot houding:
-{% include embed/youtube.html id='QVEINjrYUPU' %}
+{{< youtube QVEINjrYUPU >}}
 > Deze houding helpt bij het versterken van de buikspieren en de spijsvertering te verbeteren.
  
 
 ## Bhujangasana - Cobra houding:
-{% include embed/youtube.html id='jCYpteTjgyw' %}
+{{< youtube jCYpteTjgyw >}}
 > Deze houding helpt bij het strekken van de buik en het stimuleren van de spijsvertering.
  
 
 ## Dhanurasana - Booghouding:
-{% include embed/youtube.html id='yUrsGfYRvpI' %}
+{{< youtube yUrsGfYRvpI >}}
+
 > Deze houding helpt bij het versterken van de rugspieren en het verbeteren van de
 > spijsvertering.
  
 
 ## Pavanamuktasana - Wind verlichtende houding:
-{% include embed/youtube.html id='MxT0esXh3Eo' %}
+{{< youtube MxT0esXh3Eo >}}
+
 > Deze houding helpt bij het stimuleren van de spijsvertering en het
 > verminderen van gasvorming en opgeblazen gevoel.
  

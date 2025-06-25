@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Studionaisy</title>
-    <link>http://localhost:51875/categories/</link>
+    <link>https://studionaisy.onrender.com/categories/</link>
     <description>Recent content in Categories on Studionaisy</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 25 Jun 2025 10:51:47 +0530</lastBuildDate>
-    <atom:link href="http://localhost:51875/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://studionaisy.onrender.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>One</title>
-      <link>http://localhost:51875/categories/one/</link>
+      <link>https://studionaisy.onrender.com/categories/one/</link>
       <pubDate>Wed, 25 Jun 2025 10:51:47 +0530</pubDate>
-      <guid>http://localhost:51875/categories/one/</guid>
+      <guid>https://studionaisy.onrender.com/categories/one/</guid>
       <description></description>
     </item>
     <item>
       <title>Two</title>
-      <link>http://localhost:51875/categories/two/</link>
+      <link>https://studionaisy.onrender.com/categories/two/</link>
       <pubDate>Wed, 25 Jun 2025 10:51:47 +0530</pubDate>
-      <guid>http://localhost:51875/categories/two/</guid>
+      <guid>https://studionaisy.onrender.com/categories/two/</guid>
       <description></description>
     </item>
     <item>
       <title>Oefeningen</title>
-      <link>http://localhost:51875/categories/oefeningen/</link>
+      <link>https://studionaisy.onrender.com/categories/oefeningen/</link>
       <pubDate>Tue, 24 Jun 2025 10:51:47 +0530</pubDate>
-      <guid>http://localhost:51875/categories/oefeningen/</guid>
+      <guid>https://studionaisy.onrender.com/categories/oefeningen/</guid>
       <description></description>
     </item>
     <item>
       <title>Yoga</title>
-      <link>http://localhost:51875/categories/yoga/</link>
+      <link>https://studionaisy.onrender.com/categories/yoga/</link>
       <pubDate>Tue, 24 Jun 2025 10:51:47 +0530</pubDate>
-      <guid>http://localhost:51875/categories/yoga/</guid>
+      <guid>https://studionaisy.onrender.com/categories/yoga/</guid>
       <description></description>
     </item>
     <item>
       <title>Life Hacks</title>
-      <link>http://localhost:51875/categories/life-hacks/</link>
+      <link>https://studionaisy.onrender.com/categories/life-hacks/</link>
       <pubDate>Sun, 22 Jun 2025 10:51:47 +0530</pubDate>
-      <guid>http://localhost:51875/categories/life-hacks/</guid>
+      <guid>https://studionaisy.onrender.com/categories/life-hacks/</guid>
       <description></description>
     </item>
     <item>
       <title>Pesticide</title>
-      <link>http://localhost:51875/categories/pesticide/</link>
+      <link>https://studionaisy.onrender.com/categories/pesticide/</link>
       <pubDate>Sun, 22 Jun 2025 10:51:47 +0530</pubDate>
-      <guid>http://localhost:51875/categories/pesticide/</guid>
+      <guid>https://studionaisy.onrender.com/categories/pesticide/</guid>
       <description></description>
     </item>
   </channel>

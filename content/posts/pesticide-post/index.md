@@ -1,6 +1,6 @@
 ---
-title:  "Yoga Basis"
-date:   2025-06-24 10:51:47 +0530
+title:  "Over pesticiden"
+date:   2025-06-22 10:51:47 +0530
 img: "img.png"
 categories: [life hacks, pesticide]
 author: "Yona Croft"

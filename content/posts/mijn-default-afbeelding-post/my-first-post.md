@@ -2,13 +2,13 @@
 title: "my first post!"
 date: 2020-06-13 10:51:47 +0530
 categories: [ one, two ]
-author: "Hugo Aguirre"
+author: "Arts ICT"
 profile:
   attrs:
     - key: Name
-      val: Stuart
+      val: Tristan
     - key: Likes
-      val: Playing guitar
+      val: Java
 ---
 
 ## Default img

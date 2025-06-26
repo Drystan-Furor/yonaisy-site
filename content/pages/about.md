@@ -4,16 +4,15 @@ title: About
 permalink: /about/
 ---
 
+**Dit is Studionaisy.** 
 
+Geen life-coach-gehijg, geen glitterfilter op het leven. Gewoon Yona.
+Ze haakt, ze kookt, ze ademt. Letterlijk. Yoga, dus. En als ze niet bezig is met haar ademhaling of een pan soep, dan
+breit ze de mooiste dingen bij elkaar waar IKEA nog jaloers op zou worden.
 
+> Op deze site vind je van alles wat: recepten die écht smaken, yoga die je rug redt (of je humeur), en haakwerk waar je
+> oma van zou zeggen: "zo, die kan er wat van." Geen influencer-gedoe. Geen gezweef. Tenzij het een zwevende yogapose is.
 
-Hugo cards is a Bootstrap based theme ported from the Jekyll theme [Webjeda-cards](https://webjeda.com/cards/). Any Bootstrap element can be used in the theme.
+Welkom in mijn wereld. Trek je schoenen uit, gooi je telefoon aan de kant, en kijk rond. Of niet. Maar dan mis je wel
+wat.
 
-For more themes, visit [Hugo Themes](https://themes.gohugo.io/)
-
-**Does the theme deserve a star?**
-
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/bul-ikana/hugo-cards" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star bul-ikana/hugo-cards on GitHub">Star</a>
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>

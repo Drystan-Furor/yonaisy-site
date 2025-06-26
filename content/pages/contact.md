@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-Visit [my site](https://bool.netlify.com)
+Visit [Arts ICT](https://www.arts-ict.nl)
 
-Insert your contact details or a contact form here.
+
 

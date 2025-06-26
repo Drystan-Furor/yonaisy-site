@@ -2,51 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://studionaisy.onrender.com/categories/</loc>
+    <loc>http://localhost:62397/categories/</loc>
     <lastmod>2025-06-25T10:51:47+05:30</lastmod>
   </url><url>
-    <loc>https://studionaisy.onrender.com/categories/one/</loc>
+    <loc>http://localhost:62397/categories/one/</loc>
     <lastmod>2025-06-25T10:51:47+05:30</lastmod>
   </url><url>
-    <loc>https://studionaisy.onrender.com/posts/</loc>
+    <loc>http://localhost:62397/posts/</loc>
     <lastmod>2025-06-25T10:51:47+05:30</lastmod>
   </url><url>
-    <loc>https://studionaisy.onrender.com/</loc>
+    <loc>http://localhost:62397/</loc>
     <lastmod>2025-06-25T10:51:47+05:30</lastmod>
   </url><url>
-    <loc>https://studionaisy.onrender.com/categories/two/</loc>
+    <loc>http://localhost:62397/categories/two/</loc>
     <lastmod>2025-06-25T10:51:47+05:30</lastmod>
   </url><url>
-    <loc>https://studionaisy.onrender.com/posts/mijn-eerste-post/</loc>
+    <loc>http://localhost:62397/posts/mijn-eerste-post/</loc>
     <lastmod>2025-06-25T10:51:47+05:30</lastmod>
   </url><url>
-    <loc>https://studionaisy.onrender.com/categories/oefeningen/</loc>
+    <loc>http://localhost:62397/categories/oefeningen/</loc>
     <lastmod>2025-06-24T10:51:47+05:30</lastmod>
   </url><url>
-    <loc>https://studionaisy.onrender.com/categories/yoga/</loc>
+    <loc>http://localhost:62397/categories/yoga/</loc>
     <lastmod>2025-06-24T10:51:47+05:30</lastmod>
   </url><url>
-    <loc>https://studionaisy.onrender.com/posts/yoga-basis-post/</loc>
+    <loc>http://localhost:62397/posts/yoga-basis-post/</loc>
     <lastmod>2025-06-24T10:51:47+05:30</lastmod>
   </url><url>
-    <loc>https://studionaisy.onrender.com/posts/yoga-stofwisseling-post/</loc>
+    <loc>http://localhost:62397/categories/pannekoeken/</loc>
     <lastmod>2025-06-23T10:41:47+05:30</lastmod>
   </url><url>
-    <loc>https://studionaisy.onrender.com/categories/life-hacks/</loc>
+    <loc>http://localhost:62397/categories/recepten/</loc>
+    <lastmod>2025-06-23T10:41:47+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:62397/posts/pannekoeken-post/</loc>
+    <lastmod>2025-06-23T10:41:47+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:62397/posts/yoga-stofwisseling-post/</loc>
+    <lastmod>2025-06-23T10:41:47+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:62397/categories/life-hacks/</loc>
     <lastmod>2025-06-22T10:51:47+05:30</lastmod>
   </url><url>
-    <loc>https://studionaisy.onrender.com/posts/pesticide-post/</loc>
+    <loc>http://localhost:62397/posts/pesticide-post/</loc>
     <lastmod>2025-06-22T10:51:47+05:30</lastmod>
   </url><url>
-    <loc>https://studionaisy.onrender.com/categories/pesticide/</loc>
+    <loc>http://localhost:62397/categories/pesticide/</loc>
     <lastmod>2025-06-22T10:51:47+05:30</lastmod>
   </url><url>
-    <loc>https://studionaisy.onrender.com/posts/mijn-default-afbeelding-post/my-first-post/</loc>
+    <loc>http://localhost:62397/posts/mijn-default-afbeelding-post/my-first-post/</loc>
     <lastmod>2020-06-13T10:51:47+05:30</lastmod>
   </url><url>
-    <loc>https://studionaisy.onrender.com/posts/hello-world/</loc>
+    <loc>http://localhost:62397/posts/hello-world/</loc>
     <lastmod>2000-06-13T10:51:47+05:30</lastmod>
   </url><url>
-    <loc>https://studionaisy.onrender.com/tags/</loc>
+    <loc>http://localhost:62397/pages/about/</loc>
+  </url><url>
+    <loc>http://localhost:62397/pages/contact/</loc>
+  </url><url>
+    <loc>http://localhost:62397/pages/</loc>
+  </url><url>
+    <loc>http://localhost:62397/tags/</loc>
   </url>
 </urlset>

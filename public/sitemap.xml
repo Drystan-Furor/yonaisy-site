@@ -2,93 +2,111 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:58909/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-11-22T09:51:47+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/life-hacks/</loc>
+    <lastmod>2025-11-22T09:51:47+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-11-22T09:51:47+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/schermtijd/</loc>
+    <lastmod>2025-11-22T09:51:47+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/schermtijd-gezin/</loc>
+    <lastmod>2025-11-22T09:51:47+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-11-22T09:51:47+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/one/</loc>
     <lastmod>2025-06-25T10:51:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:58909/categories/one/</loc>
+    <loc>http://localhost:1313/categories/two/</loc>
     <lastmod>2025-06-25T10:51:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:58909/posts/</loc>
+    <loc>http://localhost:1313/posts/mijn-eerste-post/</loc>
     <lastmod>2025-06-25T10:51:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:58909/</loc>
-    <lastmod>2025-06-25T10:51:47+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:58909/categories/two/</loc>
-    <lastmod>2025-06-25T10:51:47+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:58909/posts/mijn-eerste-post/</loc>
-    <lastmod>2025-06-25T10:51:47+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:58909/categories/oefeningen/</loc>
+    <loc>http://localhost:1313/categories/oefeningen/</loc>
     <lastmod>2025-06-24T10:51:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:58909/categories/yoga/</loc>
+    <loc>http://localhost:1313/categories/yoga/</loc>
     <lastmod>2025-06-24T10:51:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:58909/posts/yoga-basis-post/</loc>
+    <loc>http://localhost:1313/posts/yoga-basis-post/</loc>
     <lastmod>2025-06-24T10:51:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:58909/categories/pannekoeken/</loc>
+    <loc>http://localhost:1313/categories/pannekoeken/</loc>
     <lastmod>2025-06-23T10:41:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:58909/categories/recepten/</loc>
+    <loc>http://localhost:1313/categories/recepten/</loc>
     <lastmod>2025-06-23T10:41:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:58909/posts/pannekoeken-post/</loc>
+    <loc>http://localhost:1313/posts/pannekoeken-post/</loc>
     <lastmod>2025-06-23T10:41:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:58909/posts/yoga-stofwisseling-post/</loc>
+    <loc>http://localhost:1313/posts/yoga-stofwisseling-post/</loc>
     <lastmod>2025-06-23T10:41:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:58909/categories/life-hacks/</loc>
+    <loc>http://localhost:1313/posts/pesticide-post/</loc>
     <lastmod>2025-06-22T10:51:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:58909/posts/pesticide-post/</loc>
+    <loc>http://localhost:1313/categories/pesticide/</loc>
     <lastmod>2025-06-22T10:51:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:58909/categories/pesticide/</loc>
-    <lastmod>2025-06-22T10:51:47+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:58909/categories/broodjes/</loc>
+    <loc>http://localhost:1313/categories/broodjes/</loc>
     <lastmod>2024-06-09T10:41:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:58909/posts/positief-denken-1/</loc>
+    <loc>http://localhost:1313/posts/positief-denken-1/</loc>
     <lastmod>2024-06-09T10:41:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:58909/posts/positief-denken-2/</loc>
+    <loc>http://localhost:1313/posts/positief-denken-2/</loc>
     <lastmod>2024-06-09T10:41:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:58909/posts/positief-denken-3/</loc>
+    <loc>http://localhost:1313/posts/positief-denken-3/</loc>
     <lastmod>2024-06-09T10:41:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:58909/posts/positief-denken-4/</loc>
+    <loc>http://localhost:1313/posts/positief-denken-4/</loc>
     <lastmod>2024-06-09T10:41:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:58909/posts/positief-denken-5/</loc>
+    <loc>http://localhost:1313/posts/positief-denken-5/</loc>
     <lastmod>2024-06-09T10:41:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:58909/categories/denken/</loc>
+    <loc>http://localhost:1313/posts/positief-denken-6/</loc>
     <lastmod>2024-06-09T10:41:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:58909/posts/glutenvrij-broodjes-post/</loc>
+    <loc>http://localhost:1313/posts/positief-denken-7/</loc>
     <lastmod>2024-06-09T10:41:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:58909/categories/positief/</loc>
+    <loc>http://localhost:1313/posts/positief-denken-8/</loc>
     <lastmod>2024-06-09T10:41:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:58909/posts/mijn-default-afbeelding-post/my-first-post/</loc>
+    <loc>http://localhost:1313/posts/positief-denken-9/</loc>
+    <lastmod>2024-06-09T10:41:47+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/denken/</loc>
+    <lastmod>2024-06-09T10:41:47+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/glutenvrij-broodjes-post/</loc>
+    <lastmod>2024-06-09T10:41:47+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/positief/</loc>
+    <lastmod>2024-06-09T10:41:47+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/mijn-default-afbeelding-post/my-first-post/</loc>
     <lastmod>2020-06-13T10:51:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:58909/posts/hello-world/</loc>
+    <loc>http://localhost:1313/posts/hello-world/</loc>
     <lastmod>2000-06-13T10:51:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:58909/pages/about/</loc>
+    <loc>http://localhost:1313/pages/about/</loc>
   </url><url>
-    <loc>http://localhost:58909/pages/contact/</loc>
+    <loc>http://localhost:1313/pages/contact/</loc>
   </url><url>
-    <loc>http://localhost:58909/pages/</loc>
+    <loc>http://localhost:1313/pages/</loc>
   </url><url>
-    <loc>http://localhost:58909/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

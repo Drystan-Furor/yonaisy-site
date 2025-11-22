@@ -23,6 +23,8 @@ gewoon omdat we niet weten wat we anders moeten doen. Maar te veel schermtijd he
 kinderen. Die raken er een beetje prikkelbaar van, alsof hun binnenste voortdurend in de stand “net niet opgeladen”
 staat.
 
+![img_1.png](img_1.png)
+
 Hun concentratie hopt alle kanten op, de creativiteit krimpt tot de grootte van een postzegel, en hun hoofd voelt soms
 meer als een op hol geslagen flipperkast dan als een plek waar gedachten rustig kunnen landen. Echte sociale
 interactie? Dat wordt ineens ingewikkeld, omdat hun brein vooral getraind is op digitale prikkels die sneller knipperen
@@ -37,6 +39,8 @@ complete gebruiksaanwijzing voor zou willen, en het liefst één met plaatjes.
 
 “Het begon met een simpel moment: drie mensen op de bank, allemaal in hun eigen digitale universum. Niemand sprak. Zelfs
 de hond keek teleurgesteld.”
+
+![img_4.png](img_4.png)
 
 En wat blijkt: als je die schermen even parkeert en gewoon een dagje in de la legt, naast het ongebruikte notitieboekje,
 dan gaat er iets bijzonders gebeuren. In experimenten (ja, echte onderzoeken, niet “mijn buurvrouw zei het”) knappen
@@ -67,8 +71,10 @@ Klinkt dat als een utopie? Nee hoor. Hooguit als een experiment waar je achteraf
 Dus: durf jij het aan? Eén dag zonder scherm. Gewoon proberen. Wie weet ontdek je dat er achter dat zwarte glas nog een
 hele wereld zit — eentje die verrassend leuk blijkt te zijn.
 
-> “There’s no WiFi in the forest, but you’ll find a better connection.” — onbekend.
-[Bits of Positivity](https://bitsofpositivity.com/best-screen-free-and-less-screen-time-quotes/)
+![elastic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.1BxAeD-r1Xv7lhdyzn7jxAHaEO%3Fpid%3DApi&f=1&ipt=e6f854936debee6421a607591fce700e6956fc5d08421ddc4fc72963aaf95ad9)
+
+> “Er is geen WiFi in net bos, maar je vind er wel een betere verbinding” — 
+[onbekend.](https://bitsofpositivity.com/best-screen-free-and-less-screen-time-quotes/)
 
 Hier begint ’t plan:
 
@@ -82,10 +88,14 @@ Bij voorkeur een dag waarop niemand vijftien sportclubs of studiedeadlines heeft
 Woensdag kan, maar dan moet iedereen mentaal sterk zijn. In elk geval: een dag die altijd hetzelfde blijft, zodat
 niemand kan zeggen “Oh… was dat vandaag?”
 
+![laptop](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fkeuzeinwonen.nl%2Fwp-content%2Fuploads%2F2025%2F06%2Fproductiviteit-verhogen-door-minder-schermtijd.jpeg&f=1&nofb=1&ipt=bb2046b1a1652e8a8e81f7c498e6360446f5a2856743a8e995cbe81c4432a661![img_3.png](img_3.png))
+
 ### 2. Maak het officieel
 
 Niet in marmer hakken, maar hang een simpel briefje op de koelkast met: “Vandaag: schermen in winterslaap.” Zo weet
 iedereen dat het menens is, zonder dat er iemand een ceremonie hoeft te organiseren.
+
+![brief](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Feasyauti.nl%2Fwp-content%2Fuploads%2F2023%2F11%2Fgeen-schermtijd-600x600.png&f=1&nofb=1&ipt=0144b5f94f9feedd0535aead1385f826ca88eca798a4dd8be6b80988f29920a1)
 
 ### 3. Leg de schermen weg (echt weg)
 

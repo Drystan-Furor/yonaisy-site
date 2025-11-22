@@ -134,6 +134,9 @@ ___
 > Een vaste schermvrije dag per week geeft rust in het hoofd. Het zorgt dat kinderen (en ouders!) even resetten. Geen
 > constante meldingen, geen drukte, geen afleiding. Gewoon tijd. Voor jezelf, voor elkaar, voor echte gesprekken.
 
+![jw](https://cms-imgp.jw-cdn.org/img/p/500300107/univ/art/500300107_univ_lsr_lg.jpg
+)
+
 ## De voordelen voor de geest
 
 - Meer focus: zonder scherm prikkelt de omgeving de fantasie en creativiteit.
